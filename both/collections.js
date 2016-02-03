@@ -1,0 +1,1 @@
+this.Students = new Mongo.Collection("students");
